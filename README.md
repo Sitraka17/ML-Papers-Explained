@@ -84,3 +84,6 @@ Reach out to [Ritvik](https://twitter.com/RitvikRastogi19) or [Elvis](https://tw
 If you are interested to contribute, feel free to open a PR.
 
 [Join 🇮🇳 Discord](https://discord.gg/SKgkVT8BGJ)
+
+
+[Why You Shouldn’t Use “Markdown” for Documentation](https://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/)
