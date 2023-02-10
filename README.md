@@ -30,8 +30,13 @@ Explanations to key concepts in ML
 - [Transformer](https://dair.ai/posts/attention-is-all-you-need/)
 - [Vision Transformer](https://www.kaggle.com/discussions/general/338841)
 - [XLNet](https://dair.ai/posts/XLNet_outperforms_BERT_on_several_NLP_Tasks/)
-** 2023
-- [BLIP-2]
+##  2023
+- [BLIP-2](https://huggingface.co/docs/transformers/main/en/model_doc/blip-2)
+
+
+
+
+
 ## By Category
 
 ### RCNNs
