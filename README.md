@@ -75,4 +75,4 @@ Reach out to [Ritvik](https://twitter.com/RitvikRastogi19) or [Elvis](https://tw
 
 If you are interested to contribute, feel free to open a PR.
 
-[Join our Discord](https://discord.gg/SKgkVT8BGJ)
+[Join 🇮🇳 Discord](https://discord.gg/SKgkVT8BGJ)
