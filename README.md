@@ -1,6 +1,6 @@
 # ML Papers Explained
 
-Explanations to key concepts in ML
+Explanations to key concepts in ML (Machine Learning)
 
 ## Full Index
 
@@ -30,16 +30,14 @@ Explanations to key concepts in ML
 - [Transformer](https://dair.ai/posts/attention-is-all-you-need/)
 - [Vision Transformer](https://www.kaggle.com/discussions/general/338841)
 - [XLNet](https://dair.ai/posts/XLNet_outperforms_BERT_on_several_NLP_Tasks/)
+
+
 ##  2023
 - [BLIP-2](https://huggingface.co/docs/transformers/main/en/model_doc/blip-2)
 
-<div class="warning">
 
-This is a Warning!
 
-</div>
 
-<div style="page-break-after: always;"></div>
 
 ## By Category
 
