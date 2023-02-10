@@ -35,7 +35,7 @@ Explanations to key concepts in ML
 
 
 
-
+<div style="page-break-after: always;"></div>
 
 ## By Category
 
