@@ -33,7 +33,11 @@ Explanations to key concepts in ML
 ##  2023
 - [BLIP-2](https://huggingface.co/docs/transformers/main/en/model_doc/blip-2)
 
+<div class="warning">
 
+This is a Warning!
+
+</div>
 
 <div style="page-break-after: always;"></div>
 
